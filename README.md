@@ -1,0 +1,4 @@
+# mybatisplus-generator
+参照mybatis plus官网示例改造mybatis plus代码生成器工具类，自动生成xxController/xxServiceImpl/xxMapper/xxMapper.xml/xx实体类
+CommonCodeGenerator.java 生成非module模块代码
+ModuleCodeGenerator.java 生成module模块代码
